@@ -1,0 +1,16 @@
+.titreAjouter{
+        justify-content: center;
+        text-align: center;
+        padding: 40px 20px;
+}
+
+.form-all{
+        width: 60%;
+        padding-bottom: 100px;
+}
+
+.btnSubmit{
+        position: absolute;
+        left:42%;
+        top:100%;
+}

@@ -1,0 +1,169 @@
+.fond-game {
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/pw_maze_black.png ");
+}
+
+.en-tete {
+    border: 2px solid #f4caf3ec;
+    border-radius: 4px;
+    margin: 10px;
+}
+
+.jeu-name {
+    font-family: 'lazer84', sans-serif;
+}
+
+.jeu-name-titre {
+    font-family: 'lazer84', sans-serif;
+    font-size: 38px;
+    color: #f4caf3ec;
+    text-shadow: 5px 5px 5px rgb(255, 0, 250);
+    letter-spacing: 3px;
+    margin-top: 3px;
+}
+
+.jeu-text-game {
+    font-family: 'lazer84', sans-serif;
+    align-self: center;
+}
+
+.align-text{
+    margin-top: 10px;
+}
+
+.container-part-image {
+    padding-top: 35px;
+    padding-bottom: 1em;
+}
+
+.container-image {
+    display: flex;
+    justify-content: center;
+}
+
+.pochette-image {
+    width: 100%;
+    margin-bottom: 2em;
+}
+
+.images-games {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.first-image {
+    width: 100%;
+    padding-bottom: 2em;
+}
+
+.second-image {
+    width: 100%;
+    padding-bottom: 2em;
+}
+
+.game {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.game-description {
+    color: white;
+    text-align: center;
+    padding-top:150px;
+    font-size: 2em;
+}
+
+.text-page-game {
+    margin: auto;
+    width: 80%;
+    color: white;
+    padding: 3%; 
+    justify-content: justify;
+    font-size: 20px;
+    font-family: 'Play', sans-serif;
+    text-align: justify;
+}
+
+.game-video {
+    display: flex;
+    justify-content: center;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.video {
+    height: 450px;
+    width: 700px;
+}
+
+@media screen and (max-width: 667px) {
+    .pochette-image {
+        height: 350px;
+        width: 250px;
+    }
+}
+
+@media screen and (max-width: 667px) {
+    .pochette {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 667px) {
+    .video {
+      height: 250px;
+      width: 350px;
+    }
+}
+
+@media (min-width:667px) and (max-width: 767px) {
+    .video {
+    height: 250px;
+    width: 450px;
+    }
+}
+
+.availabilities {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-family: 'Play', sans-serif;
+}
+
+.button-page-game {
+    margin-top: 30px;
+    font-family: 'Play', sans-serif;
+    padding-bottom: 2em;
+}
+
+.lien-theme{
+    color:white;
+}
+
+.lien-vente{
+    color: white;
+}
+
+.lien-vente:hover{
+    color:white;
+}
+
+.logos-store-min{
+    height: 50px;
+}
+
+.logos-store-max{
+    height: 80px;
+}
+
+.amazon{
+    margin-bottom: 8px;
+}
+
+.sale{
+    font-size: 25px;
+}
+

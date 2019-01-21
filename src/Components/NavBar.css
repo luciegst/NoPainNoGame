@@ -1,0 +1,67 @@
+.listbox {
+    min-width: 195px;
+    background: white;
+    border: 1px solid #ccc;
+    list-style: none;
+    margin-left: 1.58%;
+    padding: 0;
+    position: absolute;
+    top: 4.2em;
+    z-index: 1;
+    visibility: visible;
+}
+
+.listbox-hidden {
+    min-width: 230px;
+    background: white;
+    border: 1px solid #ccc;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 1.7em;
+    z-index: 1;
+    visibility: hidden;
+}
+
+.npnglogo {
+    width: 50px; 
+}
+
+.navcolor {
+    background-color: #1E2129;
+    height: 90px;
+}
+
+.navlink {
+    font-size: 21px;
+    color : white;  
+}
+
+.SearchBar {
+    margin-left: 35%;
+    margin-top: 3%;
+}
+
+.home {
+    font-size: 18px;
+    border: 1px solid rgb(112, 112, 112);
+    border-radius: 5px;
+    font-family: 'lazer84';
+    color:white;
+    padding: 5px 5px 5px 5px;
+}
+
+.home:hover {
+    background-color: rgb(32, 32, 32);
+}
+
+.SearchIcon {
+    margin-right: 10px;
+
+}
+
+
+
+
+

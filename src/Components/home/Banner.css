@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Condensed|Permanent+Marker|Ubuntu+Condensed');
+
+
+.banner{
+    height: 34vw;
+    margin-top: 5.40em;
+    background-position: 50% 50%;
+}
+
+.background {
+    height: 110%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.border-text{
+    opacity: 0.8;
+    border-radius: 4px;
+    padding : 0.5% 1% 0.5% 2%;
+    background-color: rgb(255, 0, 250);   
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+    color: white;
+    font-weight: bolder;
+    text-shadow: 1px 1px 1.2px #000000;
+    text-align: center;
+    font-size: 3vw;
+    font-family: 'lazer84', sans-serif;
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    letter-spacing: 3px;
+    transform: translate(-50%, -50%);
+}
+.border-text:hover {
+    opacity: 1;
+    cursor: pointer;
+}
+

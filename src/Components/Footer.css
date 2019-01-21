@@ -1,0 +1,78 @@
+.white-text {
+    color: white;
+}
+
+.mentions{
+  cursor: pointer;
+  font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+.white {
+    color: #ffffff;
+    font-size: 23px;
+    font-family:'Ubuntu Condensed', sans-serif;
+}
+
+.socials {
+    padding: 25px;
+    background-color: #1E2129;
+    bottom: 0;
+    position: static;
+    width: 100%;
+  }
+  
+  .socials a {
+    color: rgb(255, 255, 255);
+  }
+  
+  .socials .social:hover {
+    transform: scale(1.4);
+    -moz-transform: scale(1.4);
+    -o-transform: scale(1.4);
+  }
+  
+  .socials .social {
+    transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    -o-transition-duration: 0.5s;
+  }
+  
+  .socials #social-fb:hover {
+    color: #3B5998;
+  }
+  
+  .socials #social-tw:hover {
+    color: #4099FF;
+  }
+  
+  .socials #social-gp:hover {
+    color: #d34836;
+  }
+  
+  .socials #social-em:hover {
+    color:rgb(254, 208, 25);
+  }
+  .socials #social-fb {
+    padding: 15px;
+  }
+  
+  .socials #social-tw {
+    padding: 15px;
+  }
+  
+  .socials #social-gp {
+    padding: 15px;
+  }
+  
+  .socials #social-em {
+    padding: 15px;
+  }
+
+  .footer-modal{
+    max-height: 1200px;
+  }
+
+  

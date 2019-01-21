@@ -1,0 +1,25 @@
+.titreEditer{
+    justify-content: center;
+    text-align: center;
+    padding: 40px 20px;
+    color: black;
+}
+
+.form-all{
+    width: 60%;
+    padding-bottom: 100px;
+}
+
+.btnModif{
+    position: absolute;
+    left:34%;
+    top:100%;
+    font-size:3em;
+}
+
+.btnCancel {
+    position: absolute;
+    left:54%;
+    top:100%;
+    font-size: 1.4em;
+}

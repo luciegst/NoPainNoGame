@@ -1,0 +1,22 @@
+.fond-theme {
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/pw_maze_black.png ");
+    background-origin: border-box;
+    color: white;
+}
+
+.titre1{
+    text-align: center;
+    font-family: 'lazer84', sans-serif;
+    color: #f4caf3ec;
+    text-shadow: 5px 5px 5px rgb(255, 0, 250);
+    letter-spacing: 3px;
+}
+
+.interRow {
+    padding-bottom: 1em;
+    padding-top: 35px;
+}
+
+.top-title {
+    padding-top: 150px;
+}

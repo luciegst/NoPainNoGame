@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+@import url('https://fonts.googleapis.com/css?family=Play');
+
+@font-face {
+    font-family: 'lazer84';
+    src: url('/fonts/lazer84.woff2') format('woff2'),
+        url('/fonts/lazer84.woff') format('woff'),
+        url('/fonts/lazer84.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.content {
+    min-height: calc(100vh - 184px);
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/pw_maze_black.png ");
+    background-origin: border-box;
+}
+
+.footer {
+    height: 200px;
+}

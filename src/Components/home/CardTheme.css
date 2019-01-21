@@ -1,0 +1,39 @@
+.cardTitreTheme{
+    background-color: rgba(249, 230, 248, 0.925);
+    color:black;
+    opacity: 0.9;
+    border-radius: 4px;
+    padding : 5px 5px 5px 5px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size: 24px;
+}
+
+.titreTheme{
+    text-align: center;
+    opacity: 1;
+    transition-duration: 0.3s;
+}
+
+.cardTheme:hover .titreTheme{
+    opacity: 1;
+    transition-duration: 0.3s;
+    transform: scale(1.4);
+    -moz-transform: scale(1.4);
+    -o-transform: scale(1.4);
+}
+
+.divImageTheme{
+    overflow: hidden;
+}
+
+.imgTheme{
+    opacity: 1;
+    transition-duration: 0.3s;
+}
+
+.cardTheme:hover .imgTheme{
+    transition-duration: 0.3s;
+    opacity: 0.8;
+    transform:scale(1.13);
+    transition: 1s;
+}

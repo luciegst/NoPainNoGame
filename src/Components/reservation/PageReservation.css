@@ -1,0 +1,42 @@
+.fond {
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/pw_maze_black.png ");
+    background-origin: border-box;
+    padding-top:150px;
+    padding-bottom: 100px;
+}
+
+.btn-submit {
+    font-family: 'Play', sans-serif;
+    font-size: 22px;
+}
+
+.form-img{
+    height: 450px;
+    margin-bottom: 30px;
+}
+
+.form-page{
+    text-align: center;
+}
+
+.form-title{
+    text-align: center;
+    color: white;
+    margin: 10px;
+ }
+
+.btn{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+
+.form-pad{
+    padding: 10px;
+}
+
+.form-col{
+    padding-top: 35px;
+}
+
